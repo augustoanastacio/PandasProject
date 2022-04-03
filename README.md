@@ -1,2 +1,5 @@
 # DatascienceProject01
- my first project of Data Science, still don't know what i will do, planning first.
+ Apenas segui o curso de pandas com minhas anotações
+este curso me ajudou a usar o github e o pandas
+segui o curso neste link
+https://www.youtube.com/watch?v=vmEHCJofslg&t=2912s
